@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @chiefs
 - 👀 twitter http://twitter.com/nearly
-- 🌱 twitch http://twitch.tv/sketching
 - 📫 How to reach me 
 
 <!---
